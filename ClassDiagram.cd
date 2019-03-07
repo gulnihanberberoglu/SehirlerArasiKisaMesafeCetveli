@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="FullSignature">
+  <Struct Name="Komsu">
+    <Position X="1" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgQAAAAAAAAAAAABgAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Komsu.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Sehir">
+    <Position X="1" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgQAAAAAAAAAAACAAEAAAAAAIAAAAAAAQAAAAA=</HashCode>
+      <FileName>Sehir.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Adim">
+    <Position X="4.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Yolculuk.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Yolculuk">
+    <Position X="4.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAIAAAAAAAAAAAAAAIAAAAAQAAAAAAAIAAA=</HashCode>
+      <FileName>Yolculuk.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
